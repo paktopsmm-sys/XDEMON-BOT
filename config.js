@@ -13,19 +13,19 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY NIMA-MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝐗𝐃𝐄𝐌𝐎𝐍-MD 🤍*",
 // set the auto reply massage on status reply  
 ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "true",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/tams7i.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.postimg.cc/B6w4rV6T/20250611-123112.png",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "NIMA-MD",
+BOT_NAME: process.env.BOT_NAME || "XDEMON-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "NIMA-MD",
+STICKER_NAME: process.env.STICKER_NAME || "XDEMON-MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -33,15 +33,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "📍",
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "+94760743488",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "+923044081261",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "LOKU NIMA",
+OWNER_NAME: process.env.OWNER_NAME || "𝐗𝐃𝐄𝐌𝐎𝐍",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© POWERED BY LOKU NIMAH🔄*",
+DESCRIPTION: process.env.DESCRIPTION || "*© POWERED BY 𝐗𝐃𝐄𝐌𝐎𝐍🔄*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/8r95u5.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/B6w4rV6T/20250611-123112.png",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> YES AIM NIMA MD ALIVE*LOKU NIMA-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> YES AIM NIMA MD ALIVE*𝐗𝐃𝐄𝐌𝐎𝐍-MD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -67,7 +67,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "94760743488",
+DEV: process.env.DEV || "923034081261",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
