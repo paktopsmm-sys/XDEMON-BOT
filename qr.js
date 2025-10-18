@@ -20,7 +20,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
  //   let num = req.query.number;
-    async function MALVIN_XD_PAIR_CODE() {
+    async function XEEMON_XD_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -72,7 +72,7 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "NIMA~MD&" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `𝗛𝗘𝗬 𝗧𝗛𝗘𝗥𝗘 𝗟𝗢𝗞𝗨 𝗡𝗜𝗠𝗔𝗛 𝗨𝗦𝗘𝗥 👋🏻
+                        let desc = `𝗛𝗘𝗬 𝗧𝗛𝗘𝗥𝗘 𝐗𝐃𝐄𝐌𝐎𝐍 𝗨𝗦𝗘𝗥 👋🏻
 
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗨𝗦𝗜𝗡𝗚 𝗡𝗜𝗠𝗔 𝗠𝗗 𝗬𝗢𝗨𝗥 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗛𝗔𝗦 𝗕𝗘𝗘𝗡 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 !
 
@@ -83,7 +83,7 @@ var randomItem = selectRandomItem(items);
 
 𝙎𝙏𝘼𝙔 𝙐𝙋𝘿𝘼𝙏𝙀𝘿:
 *ᴊᴏɪɴ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ:*  
-https://youtube.com/@nimayt-i7y?si=GxN5wFtoRwzyDNUn
+https://whatsapp.com/channel/0029Vb6eCxQGE56mNKp4ox2B
 
 
 > 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 𝗟𝗼𝗸𝘂 𝗡𝗶𝗺𝗮`;
@@ -91,8 +91,8 @@ https://youtube.com/@nimayt-i7y?si=GxN5wFtoRwzyDNUn
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "𝗡𝗜𝗠𝗔 𝗠𝗗",
-thumbnailUrl: "https://files.catbox.moe/8r95u5.jpg",
+title: " 𝐗𝐃𝐄𝐌𝐎𝐍 𝗠𝗗",
+thumbnailUrl: "https://i.postimg.cc/B6w4rV6T/20250611-123112.png",
 sourceUrl: "https://youtube.com/@nimayt-i7y?si=GxN5wFtoRwzyDNUn",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -102,7 +102,7 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `𝗛𝗘𝗬 𝗧𝗛𝗘𝗥𝗘 𝗟𝗢𝗞𝗨 𝗡𝗜𝗠𝗔𝗛 𝗨𝗦𝗘𝗥 👋🏻
+                            let desc = `𝗛𝗘𝗬 𝗧𝗛ERE 𝐗𝐃𝐄𝐌𝐎𝐍 𝗨𝗦𝗘𝗥 👋🏻
 
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗨𝗦𝗜𝗡𝗚 𝗡𝗜𝗠𝗔 𝗠𝗗 𝗬𝗢𝗨𝗥 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗛𝗔𝗦 𝗕𝗘𝗘𝗡 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 !
 
@@ -115,13 +115,13 @@ renderLargerThumbnail: true
 *ᴊᴏɪɴ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ:*  
 https://youtube.com/@nimayt-i7y?si=GxN5wFtoRwzyDNUn
 
-> 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 𝗟𝗼𝗸𝘂 𝗡𝗶𝗺𝗮`;
+> 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 𝐗𝐃𝐄𝐌𝐎𝐍`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "𝗡𝗜𝗠𝗔 𝗠𝗗✅  ",
-thumbnailUrl: "https://files.catbox.moe/8r95u5.jpg",
+title: "𝐗𝐃𝐄𝐌𝐎𝐍 𝗠𝗗✅  ",
+thumbnailUrl: "https://i.postimg.cc/B6w4rV6T/20250611-123112.png",
 sourceUrl: "https://youtube.com/@nimayt-i7y?si=GxN5wFtoRwzyDNUn",
 mediaType: 2,
 renderLargerThumbnail: true,
@@ -150,7 +150,7 @@ showAdAttribution: true
             }
         }
     }
-    await MALVIN_XD_PAIR_CODE();
+    await XDEMON_XD_PAIR_CODE();
 });
 setInterval(() => {
     console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
